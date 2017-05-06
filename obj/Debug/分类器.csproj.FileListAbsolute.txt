@@ -1,0 +1,11 @@
+E:\项目\分类器\bin\Debug\分类器.exe.config
+E:\项目\分类器\bin\Debug\分类器.exe
+E:\项目\分类器\bin\Debug\分类器.pdb
+E:\项目\分类器\obj\Debug\分类器.Properties.Resources.resources
+E:\项目\分类器\obj\Debug\分类器.csproj.GenerateResource.Cache
+E:\项目\分类器\obj\Debug\分类器.exe
+E:\项目\分类器\obj\Debug\分类器.pdb
+E:\项目\分类器\obj\Debug\分类器.csproj.ResolveComReference.cache
+E:\项目\分类器\obj\Debug\分类器.Form_主界面.resources
+E:\项目\分类器\obj\Debug\分类器.Form_figure.resources
+E:\项目\分类器\obj\Debug\分类器.csprojResolveAssemblyReference.cache
